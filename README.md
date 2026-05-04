@@ -2,7 +2,7 @@
 
 A deep learning image classification project using the Kaggle Fashion Product Images dataset.
 
-Dataset link: [text](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small/data)
+Dataset link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small/data
 
 The goal of this project was to classify product images into 4 major categories:
 
